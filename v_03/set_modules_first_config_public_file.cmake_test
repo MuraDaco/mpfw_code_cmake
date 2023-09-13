@@ -1,0 +1,6 @@
+set(CODE_CMAKE_APPS_XXX_FILE                        ${CODE_CMAKE_MODULE_VER_DIR}/set_public_include_src_ver_${SHORT_APPS_XXX_FILE}}.cmake)
+set(CODE_CMAKE_LIBS_SDK_PLATFORM_FILE               ${CODE_CMAKE_MODULE_VER_DIR}/set_public_include_src_ver_${SHORT_LIBS_SDK_PLATFORM_FILE}}.cmake)
+set(CODE_CMAKE_LIBS_FW2_CORE_CORE_FILE              ${CODE_CMAKE_MODULE_VER_DIR}/set_public_include_src_ver_${SHORT_LIBS_FW2_CORE_CORE_FILE}.cmake)
+set(CODE_CMAKE_LIBS_FW2_WRAPPER_CORE_FILE           ${CODE_CMAKE_MODULE_VER_DIR}/set_public_include_src_ver_${SHORT_LIBS_FW2_WRAPPER_CORE_FILE}.cmake)
+set(CODE_CMAKE_LIBS_FW2_WRAPPER_RESOURCES_FILE      ${CODE_CMAKE_MODULE_VER_DIR}/set_public_include_src_ver_${SHORT_LIBS_FW2_WRAPPER_RESOURCES_FILE}.cmake)
+
